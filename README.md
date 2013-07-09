@@ -1,6 +1,7 @@
 # Scroll Fever
 
 A progress bar that fills up as you scroll down the page in your browser.
+Demo at [zeke.github.io/scroll-fever](http://zeke.github.io/scroll-fever/).
 
 ## Installation
 
@@ -39,5 +40,6 @@ browserify pre-browserify.js -o post-browserify.js
 
 ## Demo
 
-See the `demo` directory in the repo.
+Visit [zeke.github.io/scroll-fever](http://zeke.github.io/scroll-fever/), or clone
+the repo and look in the `demo` directory.
 
